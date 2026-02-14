@@ -1,0 +1,16 @@
+       .navbar-custom {
+            background-color: #0f172a;
+        }
+
+        .navbar-custom .nav-link,
+        .navbar-custom .navbar-brand {
+            color: #fff;
+        }
+
+        .navbar-custom .nav-link:hover {
+            color: #38bdf8;
+        }
+
+        .search-input {
+            width: 250px;
+        }
